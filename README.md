@@ -1,2 +1,2 @@
 # ReactNativeTutorial
-Tutorial to learn react native test
+Tutorial to learn about react native technology
